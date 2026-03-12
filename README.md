@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone Aman Uniyal This Side Currently in Final Year. Looking for a oportunity to work on real industrial projects. I have Knowldege about React,JavaScript,Redux,Tailwind Css and Currently learning Node.js and Express.<br>
+Hello Everyone Aman Uniyal This Side Currently in Final Year. Looking for a opportunity to work on real industrial projects. I have Knowledege about React,JavaScript,Redux,Tailwind Css and Currently learning Node.js and Express.<br>
 
 
 ## 🌐 Socials:
