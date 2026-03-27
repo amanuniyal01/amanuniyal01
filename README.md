@@ -62,7 +62,7 @@
 
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanuniyal01&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amanuniyal01&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -80,7 +80,7 @@ Feel free to reach out — let's build something great together!
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuniyal1012)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanuniyal315@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=amanuniyal01&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=amanuniyal01&style=for-the-badge&color=0e75b6)
 
 </div>
 
