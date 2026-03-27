@@ -60,11 +60,11 @@
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Aman's GitHub Stats](https://github-readme-stats-delta-jade-23.vercel.app/api?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amanuniyal01&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-delta-jade-23.vercel.app/api/top-langs/?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
