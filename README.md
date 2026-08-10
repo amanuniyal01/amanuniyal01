@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm Aman 👋</h1>
 
-<h3 align="center">Frontend-leaning Full Stack Developer</h3>
+<p align="center">
+  <img src="https://github.com/amanuniyal01.png" width="150" style="border-radius:50%;" alt="Aman Uniyal" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend%20Developer%20React%20%7C%20TypeScript%20%7C%20ASP.NET%20Core;Learning%20Backend%20Development%20in%20.NET;Always%20shipping%20something%20new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software%20Developer%20%7C%20React%20JS;React%20JS%2C%20Redux%2C%20TypeScript%2C%20JavaScript%2C%20ASP.NET;Always%20shipping%20something%20new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +23,6 @@
 ---
 
 ### 🚀 About Me
-
 - 💼 Currently working as a **Frontend Developer at Karya Sync**, and actively contributing across the stack on the platform
 - 🌱 Currently deepening my skills in **Backend Development with ASP.NET Core**
 - 💬 Ask me about **Frontend Development — React, TypeScript**
@@ -32,7 +33,6 @@
 ---
 
 ### 🧰 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,dotnet,csharp,postgres,git,vscode,vercel,postman" />
 </p>
@@ -40,7 +40,6 @@
 ---
 
 ### 💼 Experience
-
 | Role | Company | Focus |
 |---|---|---|
 | Frontend Developer | **Karya Sync** | React, TypeScript, building and maintaining the product's frontend, collaborating on API integration with the ASP.NET Core backend |
@@ -48,28 +47,24 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanuniyal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanuniyal01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amanuniyal01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
-
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanuniyal01&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.io/2E9EF7/amanuniyal01" alt="Aman's GitHub contribution chart" />
 </p>
 
 ---
 
 ### 🏆 Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amanuniyal01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -77,7 +72,6 @@
 ---
 
 ### 🌐 Connect with Me
-
 <p align="center">
   <a href="https://aman-portfolio-amber-nu.vercel.app/" target="_blank">🌍 Portfolio</a> •
   <a href="mailto:amanuniyal315@gmail.com">📫 Email</a> •
