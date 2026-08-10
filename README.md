@@ -1,91 +1,30 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aman Uniyal</h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
-# 👋 Hi, I'm Aman Uniyal
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanuniyal01" alt="amanuniyal01" /></a> </p>
 
-### 🚀 Frontend Developer | Final Year CS Student | Open to Opportunities
+- 🔭 I’m currently working on **Karya Sync**
 
-<p align="center">
-  <a href="https://linkedin.com/in/amanuniyal1012">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amanuniyal315@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/amanuniyal01">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+- 🌱 I’m currently learning **Backend Development Asp.Net**
+
+- 👨‍💻 All of my projects are available at [https://aman-portfolio-amber-nu.vercel.app/](https://aman-portfolio-amber-nu.vercel.app/)
+
+- 💬 Ask me about **Frontend Development (React , TypeScript)**
+
+- 📫 How to reach me **amanuniyal315@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yXocTMuOuIYkwOtmLN2znHaK7ZPcFM96/view?usp=drive_link](https://drive.google.com/file/d/1yXocTMuOuIYkwOtmLN2znHaK7ZPcFM96/view?usp=drive_link)
+
+- ⚡ Fun fact **I think I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amanuniyal1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanuniyal1012" height="30" width="40" /></a>
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuniyal01&show_icons=true&locale=en&layout=compact" alt="amanuniyal01" /></p>
 
-## 💫 About Me
-
-- 🎓 **Final Year** Computer Science Student
-- 💼 Actively looking for opportunities to work on **real-world industrial projects**
-- ⚡ Passionate about building clean, performant, and user-friendly web applications
-- 🌱 Currently leveling up with **Node.js** and **Express.js**
-- 🤝 Open to **internships**, **full-time roles**, and **collaborative projects**
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend & Database *(Learning)*
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aman's GitHub Stats](https://github-readme-stats-delta-jade-23.vercel.app/api?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=amanuniyal01&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-delta-jade-23.vercel.app/api/top-langs/?username=amanuniyal01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to exciting conversations, collaborations, and opportunities.  
-Feel free to reach out — let's build something great together!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuniyal1012)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanuniyal315@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=amanuniyal01&style=for-the-badge&color=0e75b6)
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ If you like my work, consider giving my repos a star!</sub>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanuniyal01&" alt="amanuniyal01" /></p>
