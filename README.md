@@ -3,7 +3,7 @@
 <h3 align="center">Frontend-leaning Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+React+%7C+TypeScript+%7C+ASP.NET+Core;Learning+Backend+Development+in+.NET;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend%20Developer%20React%20%7C%20TypeScript%20%7C%20ASP.NET%20Core;Learning%20Backend%20Development%20in%20.NET;Always%20shipping%20something%20new" alt="Typing SVG" />
 </p>
 
 <p align="center">
