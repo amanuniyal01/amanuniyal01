@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Aman Uniyal</h1>
 <h3 align="center">🚀 Frontend Developer | React & TypeScript Enthusiast</h3>
 
@@ -86,4 +85,3 @@
 ---
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
-```
