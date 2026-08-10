@@ -59,14 +59,14 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.io/2E9EF7/amanuniyal01" alt="Aman's GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/2E9EF7/amanuniyal01" alt="Aman's GitHub contribution chart" />
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanuniyal01&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=amanuniyal01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
